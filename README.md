@@ -1,6 +1,6 @@
 # dxvProjects
 
-# dxvModding
+# dxvMC | Plugins
 This mod is just a mod following [this](https://www.youtube.com/watch?v=oU8-qV-ZtUY&list=PLKGarocXCE1H_HxOYihQMq0mlpqiUJj4L) tutorial on youtube
 This mod is **CLIENT SIDE + SERVER SIDE 1.21** tho. Have fun. 
 
