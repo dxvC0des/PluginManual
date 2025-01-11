@@ -6,7 +6,7 @@ This mod is **CLIENT SIDE + SERVER SIDE 1.21** tho. Have fun.
 
 # Installation Guide:
 **Just install the mod no installation guide lol**
-(Or use ./gradle build to compile the software if your making changes to the code)
+(Or use gradlew build to compile the software if your making changes to the code)
 
 # Info About Plugin
 - **THE PLUGIN ONLY WORKS FOR 1.21 ONLY, USE [ViaVersion](https://modrinth.com/plugin/viaversion) FOR SERVERS.**
