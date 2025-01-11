@@ -1,5 +1,7 @@
 package com.github.dxvc0des.plugin_manual;
 
+import com.github.dxvc0des.plugin_manual.block.ModBlocks;
+import com.github.dxvc0des.plugin_manual.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,5 +13,7 @@ public class Plugin_manual implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

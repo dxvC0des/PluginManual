@@ -1,0 +1,9 @@
+{
+  "_comment": "TO ADD A NEW ITEM, USE THIS FORMAT (item.MODID.ITEMID: ITEM_NAME_DESC)",
+  "_comment2": "Video Progress: https://youtu.be/9JpBpka5oBs?list=PLKGarocXCE1H_HxOYihQMq0mlpqiUJj4L&t=446",
+  "item.plugin_manual.broccoli": "Broccoli",
+  "item.plugin_manual.how_did_you_get_this": "How Did You Get This?",
+  "item.plugin_manual.throw_up": "Throw Up / Vomit",
+  "_comment3": "TO ADD A NEW BLOCK, USE THIS FORMAT (block.MODID.BLOCKID: BLOCK_NAME_DESC)",
+  "block.plugin_manual.how_did_you_get_this_block": "How Did You Get This Block?"
+}

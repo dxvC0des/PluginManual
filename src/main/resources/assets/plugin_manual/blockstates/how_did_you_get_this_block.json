@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "plugin_manual:block/how_did_you_get_this_block"
+    }
+  }
+}
