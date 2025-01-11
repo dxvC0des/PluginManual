@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.github.dxvc0des.plugin_manual.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

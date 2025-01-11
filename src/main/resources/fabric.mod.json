@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "plugin_manual",
+	"version": "${version}",
+	"name": "plugin_manual",
+	"description": "A mod to troll my friends :)",
+	"authors": [
+		"dxvStudios :)"
+	],
+	"contact": {
+		"homepage": "https://github.com/dxvC0des/PluginManual",
+		"sources": "https://www.youtube.com/watch?v=oU8-qV-ZtUY&list=PLKGarocXCE1H_HxOYihQMq0mlpqiUJj4L"
+	},
+	"license": "MIT",
+	"icon": "assets/plugin_manual/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.github.dxvc0des.plugin_manual.Plugin_manual"
+		],
+		"fabric-datagen": [
+			"com.github.dxvc0des.plugin_manual.Plugin_manualDataGenerator"
+		],
+		"client": [
+			"com.github.dxvc0des.plugin_manual.PluginManualClient"
+		]
+	},
+	"mixins": [
+		"plugin_manual.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
