@@ -1,4 +1,6 @@
-# dxvProjects
+# NOTE:
+**Hey there! This project has been archived :) This plugin is no longer maintained for future use.**
+----------------------------------------
 
 # dxvMC | Plugins
 This mod is just a mod following [this](https://www.youtube.com/watch?v=oU8-qV-ZtUY&list=PLKGarocXCE1H_HxOYihQMq0mlpqiUJj4L) tutorial on youtube
